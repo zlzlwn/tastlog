@@ -6,13 +6,6 @@ import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 
-/* 
-    Description : 모두의 맛집 리스트 추가 화면,
-                  사용자에게서 내용을 입력 받고, 사용자의 gallery image를 받아와서 저장.
-                  현재 위치의 위도, 경도 추적
-    Author 		: Lcy
-    Date 			: 2024.04.07
-*/
 
 class GlobalInsert extends StatefulWidget {
   const GlobalInsert({super.key});

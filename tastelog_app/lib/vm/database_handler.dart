@@ -2,11 +2,6 @@ import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:tastelog_app/model/myrestaurant.dart';
 
-/* 
-    Description : local db viewmodel
-    Author 		: Lcy
-    Date 			: 2024.04.06
-*/
 
 class DatabaseHandler {
 

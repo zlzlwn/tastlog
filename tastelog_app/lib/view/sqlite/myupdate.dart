@@ -5,13 +5,6 @@ import 'package:image_picker/image_picker.dart';
 import 'package:tastelog_app/model/myrestaurant.dart';
 import 'package:tastelog_app/vm/database_handler.dart';
 
-/* 
-    Description : 나만의 맛집 리스트 수정,
-                  사용자에게서 내용을 입력 받고, 사용자의 gallery image를 받아와서 저장.
-                  현재 위치의 위도, 경도 추적
-    Author 		: Lcy
-    Date 			: 2024.04.06
-*/
 
 class MyUpdate extends StatefulWidget {
   const MyUpdate({super.key});

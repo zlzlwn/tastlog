@@ -6,15 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 // import 'package:url_launcher/url_launcher.dart';
 
-/* 
-    Description : 우리의 맛집 리스트
-                  appBar : actions -> 리스트 추가
-                  body : onTap -> 지도보기
-                         slidable -> 수정 및 삭제
-                         onClick -> ActionSheet을 통한 전화
-    Author 		: Lcy
-    Date 			: 2024.04.06
-*/
 
 class KoreaRestaurant extends StatefulWidget {
   const KoreaRestaurant({super.key});
