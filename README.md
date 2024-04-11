@@ -4,7 +4,9 @@
 
 
 사용 db 
-sqlite , firebase , mysql(구현중)
+sqlite , firebase , mysql
+
+
 
 
 
