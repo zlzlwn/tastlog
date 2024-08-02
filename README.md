@@ -9,7 +9,7 @@
 
 ## 개발 정보
 
-- **개발 기간**: 2024.07.11 ~ 07.25
+- **개발 기간**: 2024.03.25 ~ 03.28
 - **Language**: Dart
 - **FrameWork**: Flutter
 - **DataBase**: SQLite, Mysql, FireBase
