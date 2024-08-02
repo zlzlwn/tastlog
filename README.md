@@ -1,24 +1,42 @@
 # taste log
 나만의 맛집 저장 앱
 
-빅데이터 4팀 박지환
+
+
+## 앱 소개
+나만의 맛집 정보 저장 어플리케이션
+
+
+## 개발 정보
+
+- **개발 기간**: 2024.07.11 ~ 07.25
+- **Language**: Dart
+- **FrameWork**: Flutter
+- **DataBase**: SQLite, Mysql, FireBase
+  
+## 주요 기능
+
+- 맛집 리뷰 저장 기능(CRUD)
+- 저장한 맛집을 지도를 통해 확인하는 기능
+
+## 스크린샷
+
+<table>
+  <tr>
+    <td><img src="https://github.com/zlzlwn/tastlog/assets/83982135/d1760ff8-9d84-4e19-929f-5f7c385855ec" width="200"></td>
+    <td><img src="https://github.com/zlzlwn/tastlog/assets/83982135/328427c1-e48f-4d46-9632-31dba3891e7a" width="200"></td>
+    <td><img src="https://github.com/zlzlwn/tastlog/assets/83982135/db03ad03-b94a-4d4f-97de-c14be6a1acfd" width="200"></td>
+    <td><img src="https://github.com/zlzlwn/tastlog/assets/83982135/85a032e6-eae6-4ac3-bf84-b172e40f1589" width="200"></td>
+  </tr>
+</table>
 
 
 
-사용 db 
-sqlite , firebase , mysql
 
 
+## 개발자
 
-
-메인화면
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-11 at 14 23 15](https://github.com/zlzlwn/tastlog/assets/83982135/d1760ff8-9d84-4e19-929f-5f7c385855ec)
-입력화면
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-11 at 13 23 26](https://github.com/zlzlwn/tastlog/assets/83982135/328427c1-e48f-4d46-9632-31dba3891e7a)
-지도
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-08 at 09 23 32](https://github.com/zlzlwn/tastlog/assets/83982135/db03ad03-b94a-4d4f-97de-c14be6a1acfd)
-수정화면
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-08 at 09 23 45](https://github.com/zlzlwn/tastlog/assets/83982135/85a032e6-eae6-4ac3-bf84-b172e40f1589)
+- **이름**: 박지환
 
 
 
